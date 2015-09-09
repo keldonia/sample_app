@@ -51,6 +51,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 group :test do
   gem 'capybara'
+  gem 'factory_girl_rails'
 end
 
 group :production do
